@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have to confess I get anxious about mathematics
 -->
 
-# 💫 About Me:
+# 🧑🏽 About Me:
 I'm a passionate backend developer with expertise in Java, Spring Boot, and cloud technologies. I enjoy building scalable and efficient solutions to solve complex problems and improve user experiences. With a strong background in software development and a keen interest in technology, I thrive in dynamic environments where I can contribute to impactful projects and collaborate with talented teams.
 
 
