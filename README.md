@@ -1,4 +1,4 @@
-### Hi there, Tech Geek 👋
+### Hi there, I'm Naveen Kumar👋
 
 <!--
 **naveenerroju/naveenerroju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
